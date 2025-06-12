@@ -2,7 +2,7 @@
 
 # 🎮 Minefest
 
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/C8yNVDkUjv)
+[![Discord](https://img.shields.io/discord/1188161588377690112?color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/C8yNVDkUjv)
 [![Website](https://img.shields.io/badge/Website-minefest.org-blue?style=for-the-badge)](https://minefest.org)
 [![Minecraft](https://img.shields.io/badge/Minecraft-Events-green?style=for-the-badge&logo=minecraft)](https://minefest.org)
 
@@ -37,8 +37,6 @@ Ce repository contient l'ensemble de l'écosystème Minefest :
 ├── 🚀 launcher/         # Lanceur Minefest personnalisé
 ├── 🌐 website/          # Code source du site web
 ├── 📱 discord-bot/      # Bot Discord communautaire
-├── 🎨 assets/           # Ressources graphiques et textures
-├── 📋 events/           # Configuration et données des événements
 └── 📚 docs/             # Documentation technique
 ```
 
@@ -66,60 +64,10 @@ Ce repository contient l'ensemble de l'écosystème Minefest :
 
 ---
 
-## 🤝 Contribuer
-
-Nous accueillons toutes les contributions ! Que vous soyez développeur, builder, ou simplement passionné de Minecraft, il y a une place pour vous dans l'équipe Minefest.
-
-### Comment contribuer ?
-1. 🍴 Fork ce repository
-2. 🌿 Créez votre branche (`git checkout -b feature/ma-contribution`)
-3. 💾 Commitez vos changements (`git commit -m 'Ajout de ma contribution'`)
-4. 📤 Push vers la branche (`git push origin feature/ma-contribution`)
-5. 🔄 Ouvrez une Pull Request
-
----
-
 ## 📞 Contact & Support
 
 - 💬 **Discord** : Rejoignez notre serveur pour obtenir de l'aide
 - 📧 **Email** : contact@minefest.org
-- 🐛 **Issues** : Utilisez les GitHub Issues pour rapporter des bugs
-
----
-
-## 📜 Licence et Droits d'Auteur
-
-<div align="center">
-
-### 🔒 **Code Propriétaire**
-
-**Tous les codes sources de ce repository appartiennent exclusivement à Minefest.**
-
-</div>
-
-```
-© Minefest 2025. Tous droits réservés.
-
-Ce code est privé et propriétaire. Toute reproduction, diffusion, 
-utilisation, consultation, modification, téléchargement ou distribution 
-est strictement interdite sans autorisation écrite préalable de Minefest.
-
-Le code source appartient exclusivement à l'organisation Minefest.
-Aucune personne ne peut utiliser, copier ou distribuer ce code 
-sans permission explicite.
-```
-
-### ⚖️ Conditions d'utilisation
-
-- ❌ **Reproduction interdite** sans autorisation
-- ❌ **Distribution interdite** sous quelque forme que ce soit
-- ❌ **Modification interdite** du code source
-- ❌ **Utilisation commerciale interdite**
-- ✅ **Consultation autorisée** pour les membres de l'équipe uniquement
-
-> **Important** : Toute violation de ces conditions peut entraîner des poursuites légales.
-
----
 
 <div align="center">
 
